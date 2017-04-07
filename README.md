@@ -1,0 +1,1 @@
+# setup-winrm-for-windowsservercore
